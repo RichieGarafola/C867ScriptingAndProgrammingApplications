@@ -6,7 +6,7 @@ This program was created as an Performance Assessment assignment for Scripting a
 
 The code provided consists of three header files and three implementation files.
 
-![Screenshot](C867ScreenShot.png)
+![Screenshot](ScreenShot.png)
 
 ---
 
